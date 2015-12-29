@@ -3,8 +3,7 @@
 main ()
 
 {
-    printf ("Hello world is so overused, how about\n");
-    printf ("Goodbye cruel world - a bit emo, but better");
+    printf ("This is actually kind of cool");
 
     return 0;
 }
